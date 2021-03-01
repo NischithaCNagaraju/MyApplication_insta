@@ -28,10 +28,12 @@ The following **optional** features are implemented:
 **GIF LINK Insta - required + Icon** [Insta1](https://user-images.githubusercontent.com/61173798/109446412-7e21eb80-79f6-11eb-90cd-99833485b406.gif)
 
 
+
+
 **Log Off gif** <img src='https://user-images.githubusercontent.com/61173798/109446677-f8527000-79f6-11eb-83c7-c9145fadbda0.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
-**GIF LINK Insta - ** [Insta_log_off](https://user-images.githubusercontent.com/61173798/109446677-f8527000-79f6-11eb-83c7-c9145fadbda0.gif)
+**GIF LINK Insta -** [Insta_log_off](https://user-images.githubusercontent.com/61173798/109446677-f8527000-79f6-11eb-83c7-c9145fadbda0.gif)
 
 
 
