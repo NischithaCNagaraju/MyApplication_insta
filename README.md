@@ -38,6 +38,28 @@ The following **optional** features are implemented:
 
 
 
+# MyApplication_insta - Part 2 
+
+Time spent: **7** hours spent in total
+
+## User Stories
+
+The following **required** functionality is completed:
+
+- [x] User can view the last 20 posts submitted to "Instagram".
+- [x] The user should switch between different tabs - viewing all posts (feed view), compose (capture photos form camera) and profile tabs (posts made) using fragments and a Bottom Navigation View. (2 points)
+- [x] User can pull to refresh the last 20 posts submitted to "Instagram".
+
+
+
+## Video Walkthrough
+
+**Here's a walkthrough of implemented user stories:**  <img src='https://user-images.githubusercontent.com/61173798/110281693-0de50e00-7f92-11eb-94d8-e9202d63684b.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+
+
+**GIF LINK Insta - required + Icon** [Insta_bottomnavigation](https://user-images.githubusercontent.com/61173798/110281693-0de50e00-7f92-11eb-94d8-e9202d63684b.gif)
 
 
 
